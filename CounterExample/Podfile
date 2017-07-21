@@ -1,0 +1,8 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'CounterExample' do
+    pod 'SnapKit', '~> 3.2.0'
+    pod 'Cabbage', '~> 0.0.1‘
+end

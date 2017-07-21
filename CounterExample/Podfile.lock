@@ -1,0 +1,15 @@
+PODS:
+  - Cabbage (0.0.1)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - Cabbage (~> 0.0.1)
+  - SnapKit (~> 3.2.0)
+
+SPEC CHECKSUMS:
+  Cabbage: 0ec3c936d17f105418e88c5ac878539d7f342cbc
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 776e0ad7ad7717443beaedf610e699e21ea33a36
+
+COCOAPODS: 1.2.1
